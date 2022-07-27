@@ -5,5 +5,6 @@ public class test {
 		System.out.println("add from A");
 		System.out.println("add from A 2");
 		System.out.println("add from B");
+		System.out.println("add from B 2");
 	}
 }
