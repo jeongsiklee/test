@@ -7,5 +7,6 @@ public class test {
 		System.out.println("add from B");
 		System.out.println("add from B 2");
 		System.out.println("add from B 3");
+		System.out.println("add from B 4");
 	}
 }
